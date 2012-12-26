@@ -15,7 +15,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
-    <finalName>by.buziuk</finalName>
-  </build>
+  <build><finalName>by.buziuk</finalName></build>
 </project>
